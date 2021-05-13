@@ -1,0 +1,10 @@
+allure-pytest==2.3.3b1
+allure-python-commons==2.3.3b1
+atomicwrites==1.4.0
+attrs==20.3.0
+colorama==0.4.4
+more-itertools==8.7.0
+py==1.10.0
+pytest==4.6.0
+selenium==3.12.0
+six==1.15.0
